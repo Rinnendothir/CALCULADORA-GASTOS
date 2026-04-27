@@ -4,8 +4,6 @@ Aplicación de consola en Python para registrar y analizar
 gastos personales. Guarda los datos en JSON y muestra
 resúmenes por categoría y por mes.
 
-## Demo
-
 Al ejecutar Python main.py verás:
 
 ----- Calculadora de Gastos -----
